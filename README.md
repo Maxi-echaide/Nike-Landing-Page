@@ -11,4 +11,3 @@ Currently, two official plugins are available:
 
 Go for a test!
 
-https://brainwave-app-landing-page.vercel.app/#hero
